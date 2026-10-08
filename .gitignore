@@ -1,0 +1,17 @@
+.DS_Store
+
+# XcodeGen output. The project is generated from project.yml.
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+build/
+
+.swiftpm/
+.build/
+Package.resolved
+
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
